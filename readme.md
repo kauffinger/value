@@ -11,3 +11,7 @@ to expect.
 
 To find out more about this, feel free to contact me. (A video
 explaining the motivation behind this in detail is coming soon.)
+
+# Categories
+[Business](/business/readme.md)
+[Worldview](/worldview/readme.md)
