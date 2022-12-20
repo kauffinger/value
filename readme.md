@@ -15,3 +15,4 @@ explaining the motivation behind this in detail is coming soon.)
 # Categories
 - [Business](/business/readme.md)
 - [Worldview](/worldview/readme.md)
+- [Code](/code/readme.md)
