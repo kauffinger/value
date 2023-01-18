@@ -13,7 +13,7 @@ To find out more about this, feel free to contact me. (A video
 explaining the motivation behind this in detail is coming soon.)
 
 # Categories
-- [Business](/business/)
-- [Worldview](/worldview/)
-- [Code](/code/)
-- [Machine Learning](/machine-learning/)
+- [Business](/business/readme.md)
+- [Worldview](/worldview/readme.md)
+- [Code](/code/readme.md)
+- [Machine Learning](/machine-learning/readme.md)
