@@ -5,7 +5,7 @@ As this is where my interest is, most resources will be relevant for start-ups.
 
 - [CTO Resources for Startups](https://github.com/kuchin/awesome-cto)
 
-# DISPS (Deep Insight Sharing Persons)
+# DISPs (Deep Insight Sharing Persons)
 
 These people share information about their experiences that would be hard to come by otherwise.
 
