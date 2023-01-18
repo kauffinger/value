@@ -14,3 +14,6 @@ Built and sold the same app twice, once to facebook, then to discord. Shares ins
 
 - [Levelsio](https://twitter.com/levelsio)
 Serial "indiepreneur" building several AI projects, iterating fast.
+
+- [Danny Postma](https://twitter.com/dannypostmaa)
+The same as the one above
