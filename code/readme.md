@@ -11,3 +11,4 @@ This is the section for general coding knowledge, to get more specific, choose o
 
 # Videos
 - [Rapid Fire React and Typescript](https://www.youtube.com/watch?v=37PafxU_uzQ)
+- [Do AGILE agile](https://www.youtube.com/watch?v=9K20e7jlQPA)
