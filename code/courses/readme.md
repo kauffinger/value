@@ -11,6 +11,4 @@ I only judge by quality and denseness of information.
 ## Non-Interactive
 - [Use current PHP](https://front-line-php.com/cheat-sheet)
 - [Write readable PHP](https://writing-readable-php.com/)
-
-## Text-Based
-- [DevOps and Server Management for Developers](https://serversforhackers.com/)
+- [DevOps and Server Management for Developers](https://serversforhackers.com/) [PHP-focused]
