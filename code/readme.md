@@ -5,6 +5,7 @@ This is the section for general coding knowledge, to get more specific, choose o
 - [Courses](courses/readme.md)
 - [Editors](editors/readme.md)
 - [Webdev](webdev/readme.md)
+- [DevOps](devops/readme.md)
 
 # Blog Posts
 - [The 10x Programmer](http://antirez.com/news/112)
