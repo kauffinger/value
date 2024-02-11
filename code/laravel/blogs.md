@@ -8,6 +8,9 @@
 - https://christoph-rumpel.com/
 - https://ryangjchandler.co.uk/
 - https://dcblog.dev/posts
+- https://tighten.com/insights/
+- https://juststeveking.uk/articles/
+- https://filamentphp.com/community
 
 
 
