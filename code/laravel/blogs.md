@@ -4,7 +4,7 @@
 - https://ashallendesign.co.uk/blog
 - https://spatie.be/blog
 - https://freek.dev/
-- https://laravel.io
+- https://laravel.io/articles
 - https://christoph-rumpel.com/
 - https://ryangjchandler.co.uk/
 - https://dcblog.dev/posts
