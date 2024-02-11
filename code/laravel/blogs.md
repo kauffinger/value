@@ -11,7 +11,8 @@
 - https://tighten.com/insights/
 - https://juststeveking.uk/articles/
 - https://filamentphp.com/community
-
+- https://doeken.org/
+- https://sebastian-bergmann.de/publications.html
 
 
 Also, the place where most of this list came from:
